@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.user-card-container{
+display: flex;
+margin-bottom: 15px;
+width: 220px;
+color: brown;
+}
+.avatar {
+    width: 52px;
+    height: 52px;
+    border-radius: 28px;
+    margin-top: 10px;
+    margin-right: 12px;
+}
